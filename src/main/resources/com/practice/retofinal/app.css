@@ -1,0 +1,16 @@
+.root { -fx-font-family: "SansSerif"; -fx-font-size: 13px; -fx-text-fill: #243b5b; }
+.root-shell { -fx-background-color: #eef2f7; }
+.title { -fx-font-size: 28px; -fx-font-weight: bold; -fx-text-fill: #172c49; }
+.eyebrow { -fx-font-size: 10px; -fx-font-weight: bold; -fx-text-fill: #087f72; }
+.card { -fx-background-color: white; -fx-background-radius: 14; -fx-padding: 20; -fx-border-color: #dfe6ef; -fx-border-radius: 14; }
+.section { -fx-font-size: 14px; -fx-font-weight: bold; -fx-text-fill: #243b5b; }
+.muted { -fx-text-fill: #6d7b90; -fx-font-size: 11px; }
+.button { -fx-background-color: #e8f3f0; -fx-text-fill: #076d63; -fx-background-radius: 7; -fx-padding: 9 13; -fx-cursor: hand; -fx-font-weight: bold; }
+.button:hover { -fx-background-color: #cae7df; }
+.text-field, .combo-box { -fx-background-color: #f4f6fa; -fx-border-color: #dbe2ec; -fx-border-radius: 6; -fx-background-radius: 6; }
+.list-view { -fx-background-color: #f6f8fb; -fx-border-color: #e5eaf1; -fx-border-radius: 6; }
+.list-cell { -fx-background-color: transparent; -fx-padding: 7; }
+.list-cell:filled:selected { -fx-background-color: #d4ebe5; -fx-text-fill: #075e55; }
+.graph { -fx-background-color: #f7f9fc; -fx-background-radius: 10; }
+.cost { -fx-font-size: 24px; -fx-font-weight: bold; -fx-text-fill: #087f72; }
+.edge-cost { -fx-background-color: #ffffff; -fx-text-fill: #243b5b; -fx-padding: 2 5; -fx-background-radius: 5; -fx-font-size: 11px; -fx-font-weight: bold; }
